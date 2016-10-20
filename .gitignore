@@ -1,1 +1,7 @@
-node_modules/
+*.o
+*~
+*.sw[a-z]
+version
+createdb
+.ycm*
+mysql_torrent
